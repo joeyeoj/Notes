@@ -1,14 +1,3 @@
-#### masafusa (Peking Uni.) 23.10.27
-M signature
-![Alt text](Attachments/lunch_talk/masafusa_1.pic.jpg)
-![Alt text](Attachments/lunch_talk/masafusa_2.pic.jpg)
-![Alt text](Attachments/lunch_talk/masafusa_3.pic.jpg)
-![Alt text](Attachments/lunch_talk/masafusa_4.pic.jpg)
-#### Mohammad Mardini (IPMU) 23.11.3
-![Alt text](Attachments/lunch_talk/Mardini_1.pic.jpg)
-![Alt text](Attachments/lunch_talk/Mardini_2.pic.jpg)
-![Alt text](Attachments/lunch_talk/Mardini_3.pic.jpg)
-![Alt text](Attachments/lunch_talk/Mardini_4.pic.jpg)
 #### Ping Chen (Weizmann) 23.11.10
 Type 1c SN
 Ni(ckel)56 - the first peak
