@@ -11,3 +11,4 @@ Abstract: I will review the black hole information paradox and discuss recent pr
 purity表示是纯态还是混态
 纠缠熵：如果是纯态，则S=0
 ![Alt text](Attachments/informal_courses/ZhenbinYang3.pic.jpg)
+![Alt text](Attachments/informal_courses/ZhenbinYang4.pic.jpg)
