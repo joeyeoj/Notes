@@ -20,3 +20,5 @@ The highly ionized warm/hot intergalactic medium (WHIM) permeating the vast spac
 ![Alt text](Attachments/lunch_talk/XiaoyuanZhang_2.pic.jpg)
 ![Alt text](Attachments/lunch_talk/XiaoyuanZhang_3.pic.jpg)
 ![Alt text](Attachments/lunch_talk/XiaoyuanZhang_4.pic.jpg)
+#### Lei Sun (UCAS) 231201
+![Alt text](Attachments/lunch_talk/Lei_Sun.pic.jpg)
