@@ -24,26 +24,46 @@ Seyfert星系是radio-quiet的。所以这两个问题好像是同一个。。�
 <font color="blue">Wang, et al, 2009, ApJ --</font>
 * 被认为是最近的典型Seyfert 1星系；
 * 有线性射电喷流，～3.5‘’（～230pc）；
-* 有双锥的NLR，沿NE（东北方向）和SW（西南方向）延展，～10‘’；
+* 有双锥的NLR，沿NE（东北方向）和SW（西南方向）延展，～10‘’ ；
 * 射电喷流与NLR的方向不同；
-* HST观测到块状的ionized gas；
+* HST观测到块状的ionized gas (比如[O III]$\lambda$5007A, 沿双锥线流出，延伸至距AGN约1kpc处<font color="blue">Wang, et al, 2011, ApJ, I of series</font>)；
 * Chandra ACIS iamges观测到延展的soft X-ray emission，与r>1.5‘’处的光学禁线发射密切相关；
 
-<font color="blue">Mundell et al, 1999, MNRAS, 304. 481 --</font>
-* D ∼ 13.3Mpc for $\rm H_{0} = 75~km~s^{−1}~Mpc^{−1}$；
-  <font color="red">Me --</font> 佐证了“被认为是最近的典型Seyfert 1星系”这一观点。
-
 <font color="blue">Wang, et al, 2010, ApJ --</font>
-* 2-10keV的光度变化大($\rm \sim2-20\times 10^{42}~erg~s^{-1}$)；
-* 硬幂律谱的谱指数在～1.35和～1.7之间变化，与2-10keV的flux有关；
-* 用一个在硬波段符合很好的幂律谱拟合软波段时，会发现有“soft excess (<2keV)”的现象；
-* 在 6.39 ± 0.07 keV 处存在清晰的发射线，很像是X-raycontinuum照射cold iron荧光产生的Fe K$\alpha$发射线；
+* <font color="blue">Mundell et al, 1999, MNRAS, 304. 481 --</font>
+  D ∼ 13.3Mpc for $\rm H_{0} = 75~km~s^{−1}~Mpc^{−1}$；
+  <font color="red">Me --</font> 佐证了“被认为是最近的典型Seyfert 1星系”这一观点。
+* <font color="blue">Yaqoob et al, 1993, MNRAS; Warwick et al. 1995, MNRAS; Warwick et al, 1996, ApJ --</font>
+  2-10keV的光度变化大($\rm \sim2-20\times 10^{42}~erg~s^{-1}$)；
+* 硬幂律谱的谱指数在～1.35和～1.7之间变化，与2-10keV的flux有关； Seyfert星系的谱指数标准值在1.8-1.9。
+* <font color="blue">Holt et al, 1980, ApJ --</font>
+  用一个在硬波段符合很好的幂律谱拟合软波段时，会发现有“soft excess (<2keV)”的现象；
+* <font color="blue">Matsuoka et al. 1986, PASJ; Wang et al. 2001, ApJ; Schurch et al. 2003, MNRAS --</font>
+  在6.39±0.07keV处存在清晰的发射线，很像是X-ray continuum照射cold iron荧光产生的Fe K$\alpha$发射线；
 <font color="red">Me --</font> 感觉第三条比较像是特色，毕竟每个天体都会有自己奇怪的一些点，但是第三条感觉像是陈疾（笑），很多星系都出现了这种现象，刚好NGC4151离得近。
+
+<font color="blue">Wang, et al, 2011, ApJ, I of series --</font>
+* <font color="blue">Osterbrock & Koski, 1976, MNRAS --</font>
+  apparently brightest, active galaxy (Seyfert 1.5)
+* 几乎在所有波段都被研究过了
+  <font color="red">Me --</font> 这就是多波段观测！（笑）
+* <font color="blue">Pedlar et al. 1992, MNRAS; Evans et al. 1993, ApJ; Asifetal. et al, 1998, A&A; Mundell et al, 1999, MNRAS, 304.481 --</font>
+  NGC4151 ENLR光学研究的形态、运动学和线比诊断强烈支持光学双锥中的X-ray radiation和宿主星系盘相交，并对参与正常星系自转的周围气体进行了光电离。
+* NLR的Near-infrared (NIR) emission-line mapping表明电离气体紧紧跟随着光学双锥，并延伸到双锥外。比如Pa$\beta$ (<font color="blue">Storchi-Bergmann et al. 2009, 2010, MNRAS </font>)
+* <font color="blue">Fernandez et al, 1999, MNRAS; Storchi-Bergmann et al. 2009, MNRAS --</font>
+  中性氢($\rm H_2$)emission分布垂直于光学双锥方向。
+  <font color="red">Me --</font> 那应该和星系的方向比较相近
+* <font color="blue">Storchi-Bergmann et al, 2010, MNRAS --</font>
+  $\rm H_2$ emission可能是由来自 AGN 的 X 射线或与沿大尺度棒的吸积流相关的冲击激发的。
+* <font color="blue">Dumas et al, 2010, ApJ --</font>
+  距核1kpc处有两个明显的CO gas通道(lanes), NIR $\rm H_2$ emission peak的中央处没有冷分子气体。这表明$\rm H_2$ emission可能是由活动星系核光激发的。
+
 ### 2. 以往观测缺少了什么？为什么需要新观测？
 <font color="blue">Wang, et al, 2009, ApJ --</font>
 * X-ray emission与radio jet之间的关联
 	* pile-up and resolution
 ## 三. 观测了什么？
+**HRC新数据**
 <font color="blue">Wang, et al, 2009, ApJ --</font>
 * 观测：
 	* 比较源图像和PSF图像
@@ -122,6 +142,8 @@ Seyfert星系是radio-quiet的。所以这两个问题好像是同一个。。�
 * 前人的经验：强有力的证据表明射电喷流与Seyfert星系中NLR尺度上的ISM会发生相互作用。
   
 ## 五. 获得新数据后进行了什么分析？
+**ACIS新数据 200ks**
+### 1. 对NGC4151核进行分析
 <font color="blue">Wang, et al, 2010, ApJ --</font>
 * 观测：
   * light curve
@@ -231,3 +253,94 @@ Seyfert星系是radio-quiet的。所以这两个问题好像是同一个。。�
 	<font color="blue">Risaliti, et al, 2002, ApJ --</font>
 	![Alt text](Attachments/The_scale_of_X-ray_emission_and_the_physics_behind/Risaliti_eq6.png)
 	$\rightarrow$$r\leq 1.6\times 10^{4}r_{\rm s}$ (~9 It-day)，和反响映射推断的BELR区域差不多。
+### 2. 对NGC4151核周区域成像分析
+* 观测：
+  * 距核中心30''$\times$30'' (约2$\times$2kpc)区域
+  * 能量波段分为0.3-1keV和1-7keV
+* 目的：确定NGC4151的核周区域和延展X-ray的能量波段(0.3和7keV的选取是为了避免低能量处的仪器校准不确定性和高能量处的较高背景)。
+* 结论：选取了1keV为分界线
+  <font color="red">Me --</font> 1keV应该就是看从哪里开始区分，1keV以上的图像看起来基本没有什么延展。
+![ACIS raw image of the NGC 4151 nuclear region (a) in the soft band (0.3–1 keV). (b) The hard band (1–7 keV). X-ray enhancements “A” and “B” are indicated with arrows. Solid lines mark the directions of the kinematic major axis of the host galaxy (P.A. ∼ 22◦; Pedlar et al. 1992; Mundell et al. 1999), the large-scale “weak fat bar” (P.A. ∼ 130◦; Mundell & Shone 1999), and the ENLR bicone (P.A. ∼ 65◦; Evans et al. 1993). The narrow streak running north–south across the nucleus (present in both panels) is an artifact of the CCD readout of the bright nucleus.](Attachments/The_scale_of_X-ray_emission_and_the_physics_behind/NGC4151_ACIS.png)
+
+<div style="border-top: 1px dashed #888;"></div>
+
+* 观测：
+   * 0.3–1 keV辐射的SW侧呈现出clumpy结构，在r = 14''处清晰可见，较弱的diffuse emission延伸至距核心20''处。
+   * 0.3–1 keV辐射的'A'和'B'都是X-ray增强clumpy。
+   * 在NE侧，软X射线辐射在r<5''处最亮，延伸至距核心11''处。沿NW–SE方向的soft X-ray emission较NE–SW辐射暗约两倍，并且不太延伸（3''; 约200 pc）。
+* 目的：寻找除了soft X-ray emission外，还有什么X-ray features
+* 结论：
+  * Extended soft X-ray emission可以达到r～20''(～1.3kpc)
+  * 发现了X-ray enhancements
+  * 双锥的形状与星系盘方向垂直，两者很有可能是相交的，NE方向X射线发射的终点可能是NE outflow在宿主星系盘中遇到密集ISM的地方。
+
+<div style="border-top: 1px dashed #888;"></div>
+
+* 观测：进行PSF拟合
+* 目的：判断堆积的影响是否显著，区分是数据自身的误差还是实际存在的特征。
+* 结论：
+  * 在r~2''的核心区域之外，堆积在0.3–1 keV波段不再显著（对于1–7 keV波段，则r大于3''则堆积的影响不再显著）。
+  * 尽管存在堆积，但核心的PSF圆形形状基本没被改变。
+   <font color="red">Me --</font> 因此，如果分析中出现形状的改变，则需考虑真实的X-ray emission features，而不归结到数据的原因。
+  * 垂直于双锥方向仍然存在延展的X-ray，表明该区域的气体并未完全被连续辐射屏蔽，这与在HST [O iii]和[O ii]图像中检测到的辐射线双锥体之外的显著光学辐射一致。连续谱并未完全被分子环挡住。
+
+<div style="border-top: 1px dashed #888;"></div>  
+
+* 观测：提取图像时使用了较小的像素尺寸(0.0625''，约为原始ACIS像素尺寸的1/8)。
+* 目的：得到更高空间分辨率的图像。
+* 结论：
+  * 通过与HRC图像进行比较，验证了亚像素不会引入不希望的人工效应。
+  <font color="red">Me --</font> 也就是说，结果应该是可信的～不过每次画图都要说明为什么亚像素仍然可信，为了追求高分辨率也是很辛苦的= =
+  * 亚像素成像发现了更多X-ray features，现有'A''B''C''D''E'。
+	![Alt text](Attachments/The_scale_of_X-ray_emission_and_the_physics_behind/NGC4151_ACIS_subpixel_1.png)
+	![Alt text](Attachments/The_scale_of_X-ray_emission_and_the_physics_behind/NGC4151_ACIS_subpixel_2.png)
+
+<div style="border-top: 1px dashed #888;"></div> 
+
+* 观测：
+  * 提取了0.3–1.0 keV和1.0–2.0 keV频带的Chandra图像，并得到了Count ratio: $C_{\rm 1–2keV}$/$C_{\rm 0.3–1keV}$。
+  * 使用Bayesian estimation of Hardness Ratios（BEHR)定量计算了硬度比HR:$(C_{1-2keV}-C_{0.3-1keV})/(C_{1-2keV}+C_{0.3-1keV})$。
+  * 对R1，R2，R3区域分别提取光谱，使用包含了an absorbed soft thermal component and a nuclear component的模型的模型进行拟合。
+  <font color="red">Me --</font> 详见Wang2010年文章，应该是幂律谱加reflection component和partial covering component。
+* 目的：
+  * 这些波段对约为$\rm 10^{22}~cm^{−2}$数量级的氢柱密度敏感，<font color="red">Me --</font> 可以反映X射线遮蔽较高的区域，同时也是光谱指数较硬的区域。
+  * <font color="blue">Bianchi et al, 2007, MNRAS --</font> 比率图中的相对变化反映了X-ray absorption的变化。
+* 结论：
+  * 通过比较X-ray hardness ratio图和$\rm H_2, H_{\alpha}, ^{12}CO$分布（这分别反映了ionized gas和cold molecular gas的区域），认为这些结果是自洽合理的。<font color="red">Me --</font> HR值越大，说明遮蔽越明显，因为更多的soft X-ray emission被挡住了
+  * 对于光学双锥的内部区域(R1):
+  $HR=-0.63^{+0.01}_{-0.02}$；
+  对于光学双锥的边缘区域(R2):
+  $HR=-0.27^{+0.03}_{-0.03}$；
+  对于垂直于光学双锥的方向上有最大的HR的区域(R3):
+  $HR=-0.04^{+0.02}_{-0.02}$；
+  ![Alt text](Attachments/The_scale_of_X-ray_emission_and_the_physics_behind/NGC4151_ACIS_HR.png)
+  符合<font color="blue">Das, et al, 2005, AJ</font>提出的hollow bicone geometry (空心双锥几何形状)
+  * 得到NH
+  对于光学双锥的内部区域(R1): a Galactic column
+  $N_{\rm H}=2\times 10^{20}~\rm cm^{-2}$；
+  对于光学双锥的边缘区域(R2):
+  $N_{\rm H}=7\pm 5\times 10^{21}~\rm cm^{-2}$；
+  对于垂直于光学双锥的方向上有最大的HR的区域(R3):
+  $N_{\rm H}=6.5\pm 1.5\times 10^{22}~\rm cm^{-2}$；
+  * 以上结论是自洽的。采用该圆锥形状，内部全开角为30◦，外部全开角为66◦，并假设NH是由于沿着锥体壁的额外光学路径引起的，可以估计，在锥体壁中的平均nH约为$\rm 10~cm^{−3}$（For optial clouds: $n_{\rm H} = 220~\rm cm^{−3}$, <font color="blue">Penston, et al, 1990, A&A</font>）。
+
+<div style="border-top: 1px dashed #888;"></div> 
+
+* 观测：
+  * FUV光子的荧光(Fluorescence by FUV photons，非热过程)
+  * 在吸积流向核的过程中，由激波引起的热激发thermal (excitation by shocks in the accretion flow toward the nucleus，热过程)
+  * AGN的X射线光激发(photo-excitation by X-rays from the AGN，热过程)
+* 目的：确定$\rm H_2$ line emission的起源，
+  <font color="red">Me --</font> 有助于暗示AGN的X-ray对更大尺度的影响
+* 结论
+  * Fluorescence by FUV photons is ruled out. <font color="blue">Storchi-Bergmann et al, 2009, MNRAS --</font>
+  测量$\rm H_2~2-1~S(1)/1-0~S(1)$ line ratio，据此推断thermal equilibrium (Texc = 2155 K) in the H2 lines.
+  此外，由于$\rm H_2$区域的density达到$10^4–10^5~\rm cm^{−3}$，高于$\rm H_2$的旋转-振动跃迁（rotational–vibrational transitions）的临界密度（$\sim 10^4 ~\rm cm^{−3}$；<font color="blue">Tielens, 2005</font>），因此也难以区分是UV荧光还是碰撞激发主导$\rm H_2$发射。
+  * 在高密度的区域探测到$\rm H_2$，说明该区域应该不存在强烈的冲击流，因为它会通过碰撞解离分子氢。不过可能存在弱的冲击流。
+  * <font color="blue">Maloney et al, 1996, ApJ</font>
+  $\xi_{\rm eff}=1.26\times 10^{-4}F_{\rm x}/(n_5 N^{0.9}_{22})$
+  where $F_{\rm x}$ is the incident X-ray flux, $n_5$ is the cloud density in units of $10^5~\rm cm^{−3}$, and $N_{22}$ is the absorption column in units of $10^{22}~\rm cm^{−2}$.
+  得到$\xi_{\rm eff}$和an emerging $\rm H_2$ 1-0 S(1) intensity。通过比较<font color="blue">Storchi-Bergmann et al, 2009, MNRAS</font>
+  <font color="red">Me --</font> 文章Table 1（我猜是）
+  通过比较观测值和预计值，AGN的X射线激发可以合理解释观测到的H2线发射。这还表明，H2气体接收到的X射线辐射与ACIS观测到的辐射相当，该辐射在这个方向上没有被分子环挡住。
+  可以顺带解释一下为什么距中心300pc处没观测到CO。在**X-ray-dominated regions(XDR)**（有一些特殊的性质可以关注，详见Wang2010系列第一篇）中，f(CO)/f(H2)比较低。
