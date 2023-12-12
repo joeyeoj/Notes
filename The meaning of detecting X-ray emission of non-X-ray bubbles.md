@@ -7,9 +7,13 @@
 Seyfert星系在X射线研究中的受欢迎程度主要源于其相对较亮的X射线辐射、X射线吸收特征、活跃的核心黑洞以及多波段观测的可能性。这使得它们成为研究AGN和宿主星系相互作用的理想天体。
 ### 2. 为什么要求radio-quiet?
 <font color="blue">Wang, et al, 2009, ApJ --</font>
-Radio-loud的星系中，X-ray emission主要来自强大射电喷流的X射线对应物(counterpart)。在radi-quiet的Seyfert星系中，有与之类似的东西，在窄线区域 (NLR) 尺度上发现的较小喷流。
+Radio-loud的星系中，X-ray emission主要来自强大射电喷流的X射线对应物(counterpart)。在radio-quiet的Seyfert星系中，有与之类似的东西，在窄线区域 (NLR) 尺度上发现的较小喷流。
 <font color="red">Me --</font>
 Seyfert星系是radio-quiet的。所以这两个问题好像是同一个。。因为想研究radio-quiet的AGN，所以选择了Seyfert星系，这也是一个理由。
+<font color="blue">Wang, et al, 2011, ApJ, II of series --</font>
+关于射电喷流在NLR电离结构中是否与核心光电离发挥竞争作用一直存在激烈的讨论。
+<font color="red">Me --</font>
+天文中有许多值得研究的有趣现象，只是想研究radio-quiet的Seyfert星系中的这一有趣现象，仅此而已也足够了吧
 ### 3. 其X-ray emission反映了什么？
 #### * 什么东西产生了X-ray emission？
 <font color="blue">Bianchi, et al, 2006, A&A --</font>
