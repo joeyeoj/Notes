@@ -7,7 +7,7 @@
 Seyfert星系在X射线研究中的受欢迎程度主要源于其相对较亮的X射线辐射、X射线吸收特征、活跃的核心黑洞以及多波段观测的可能性。这使得它们成为研究AGN和宿主星系相互作用的理想天体。
 ### 2. 为什么要求radio-quiet?
 <font color="blue">Wang, et al, 2009, ApJ --</font>
-Radio-loud的星系中，X-ray emission主要来自强大射电喷流的X射线对应物(counterpart)。在radio-quiet的Seyfert星系中，有与之类似的东西，在窄线区域 (NLR) 尺度上发现的较小喷流。
+Radio-loud的星系中，X-ray emission与强大的射电喷流相对应(counterpart)，可以延伸到kpc甚至是Mpc尺度。在radio-quiet的Seyfert星系中，有与之类似的东西，在窄线区域 (NLR) 尺度上发现的较小喷流。
 <font color="red">Me --</font>
 Seyfert星系是radio-quiet的。所以这两个问题好像是同一个。。因为想研究radio-quiet的AGN，所以选择了Seyfert星系，这也是一个理由。
 <font color="blue">Wang, et al, 2011, ApJ, II of series --</font>
@@ -43,7 +43,7 @@ Seyfert星系是radio-quiet的。所以这两个问题好像是同一个。。�
 * <font color="blue">Holt et al, 1980, ApJ --</font>
   用一个在硬波段符合很好的幂律谱拟合软波段时，会发现有“soft excess (<2keV)”的现象；
 * <font color="blue">Matsuoka et al. 1986, PASJ; Wang et al. 2001, ApJ; Schurch et al. 2003, MNRAS --</font>
-  在6.39±0.07keV处存在清晰的发射线，很像是X-ray continuum照射cold iron荧光产生的Fe K$\alpha$发射线；
+  在6.39±0.07keV处存在清晰的发射线，很像是X-ray continuum照射cold iron产生的Fe K$\alpha$荧光发射线；
 <font color="red">Me --</font> 感觉第三条比较像是特色，毕竟每个天体都会有自己奇怪的一些点，但是第三条感觉像是陈疾（笑），很多星系都出现了这种现象，刚好NGC4151离得近。
 
 <font color="blue">Wang, et al, 2010, ApJL --</font>
@@ -74,7 +74,7 @@ Seyfert星系是radio-quiet的。所以这两个问题好像是同一个。。�
 <font color="blue">Wang, et al, 2011, ApJ, III of series --</font>
 * <font color="blue">Bianchi et al, 2006, A&A --</font>
   soft X-ray emission和[O iii] emission之间存在很紧密的空间对应关系在邻近的Seyfert 2 galaxies中似乎很常见，optical和X-ray features来自单一的photoionized medium。
-* <font color="blue">Ogle et al. 2000, ApJ; Schurch et al. 2004, MNRAs; Armentrout et al. 2007, ApJ --</font>
+* <font color="blue">Ogle et al. 2000, ApJ; Schurch et al. 2004, MNRAS; Armentrout et al. 2007, ApJ --</font>
   Chandra和XMM-Newton的高光谱分辨率光栅观测显示soft X-ray emission是由混合发射线(blended emission lines)和来自碳(carbon)、氧(oxygen)、氖(neon)和氮(nitrogen)的类 He 和类 H 转变的辐射重组连续体 (RRC) 引起的。
   后两篇文献显示，X射线线比诊断和RRC特征的电子温度都支持大部分气体都被AGN光电离了（$T\sim 10^{4}~\rm K$）这一结论。
 * <font color="blue">Liedahl, 1999 --</font>
@@ -86,7 +86,7 @@ Seyfert星系是radio-quiet的。所以这两个问题好像是同一个。。�
 	* 先前的ACIS数据存在的问题：pile-up and resolution
   
 <font color="blue">Wang, et al, 2011, ApJ, III of series --</font>
-* 对NGC 4151的光栅研究无法提供每个光谱特征的空间分布情况。提取的光谱既包括核辐射，也包括来自不同物理尺度的扩展辐射。因此，仅根据高分辨率光谱，不能排除光离子化发射可能与靠近星核（100 pc）的明亮窄线区（NLR）气体云有关，而在更大半径处可能存在碰撞电离气体的重要贡献。
+* 对NGC 4151的光栅研究无法提供每个光谱特征的空间分布情况。提取的光谱既包括核辐射，也包括来自不同物理尺度的扩展辐射。因此，仅根据高分辨率光谱，不能排除光致电离emission可能与靠近星核（100 pc）的明亮窄线区（NLR）气体云有关，而在更大半径处可能存在碰撞电离气体的重要贡献。
 * <font color="blue">Yang et al. 2001, ApJ --</font>
   提供了ACIS成像数据，但这些数据的信噪比有限，无法对光学[O iii]和X射线形态进行详细的高空间分辨率比较，也无法对空间分辨特征的X-ray emission进行光谱分析。
 
@@ -99,7 +99,7 @@ Seyfert星系是radio-quiet的。所以这两个问题好像是同一个。。�
 * 目的：
 	* 寻找亮核周围的低亮度发射，看是否存在延展发射
 * 结论：
-	* 存在延展发射，且主要沿NE和SW方向，
+	* 存在延展发射，且主要沿NE和SW方向
 	<font color="red">Me --</font>
 	与光学上盘的方向近乎垂直
 
@@ -195,7 +195,7 @@ Seyfert星系是radio-quiet的。所以这两个问题好像是同一个。。�
   * 使用三种方法提取了源光谱，验证堆积模型
 * 结论：
   * 堆积模型拟合结果与核光谱的两种间接测量一致。
-  * 表征NGC4151原子核2-10keV光谱的幂律谱很平坦。
+  * 表征NGC4151原子核2-10keV光谱的幂律谱很平坦（Γ∼0.7-0.8）。
 
 <div style="border-top: 1px dashed #888;"></div>
 
@@ -401,7 +401,7 @@ Seyfert星系是radio-quiet的。所以这两个问题好像是同一个。。�
 * 观测：
   * 提取了0.3–1.0 keV和1.0–2.0 keV频带的Chandra图像，并得到了Count ratio: $C_{\rm 1–2keV}$/$C_{\rm 0.3–1keV}$。
   * 使用Bayesian estimation of Hardness Ratios（BEHR)定量计算了硬度比HR:$(C_{1-2keV}-C_{0.3-1keV})/(C_{1-2keV}+C_{0.3-1keV})$。
-  * 对R1，R2，R3区域分别提取光谱，使用包含了an absorbed soft thermal component and a nuclear component的模型的模型进行拟合。
+  * 对R1(双锥的内部部分)，R2(光学流出的边缘)，R3(与双锥轴垂直的最高硬度比率区域)区域分别提取光谱，使用包含了an absorbed soft thermal component and a nuclear component的模型的模型进行拟合。
   <font color="red">Me --</font> 详见Wang2010年文章，应该是幂律谱加reflection component和partial covering component。
 * 目的：
   * 这些波段对约为$\rm 10^{22}~cm^{−2}$数量级的氢柱密度敏感，<font color="red">Me --</font> 可以反映X射线遮蔽较高的区域，同时也是光谱指数较硬的区域。
