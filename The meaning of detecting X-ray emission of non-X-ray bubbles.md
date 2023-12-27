@@ -165,6 +165,11 @@ Seyfert星系是radio-quiet的。所以这两个问题好像是同一个。。�
 	radio knots（例如，[Fe ii]/Paβ）处的[Fe ii]发射有所增强——这与喷射云相互作用的点一致。
 	knots的压力小于喷流的压力——符合Kraft 等人 (2009) 提出的冲击场景的最低要求
 	对喷流的估计，认为其相对重且慢——与流体动力学模拟中喷流的特性非常匹配，热主导的、缓慢且密集的Seyfert喷流遇到稠密的气体云。
+
+### 写report过程中补充问题：为什么要研究少数Seyfert星系才有的radio jet的作用呢？
+* <font color="blue">Rosario 2007 (PhD thesis), 2010 (MNRAS, ApJL)</font>
+
+
 ## 四. 为什么值得进一步观测？
 * <font color="blue">Wang, et al, 2009, ApJ --</font>
     * 符合喷流-云交互场景

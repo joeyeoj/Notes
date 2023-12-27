@@ -31,3 +31,6 @@ photoionization, collisional ionization, charge exchange, auto-ionization
 ![Alt text](Attachments/random/quiz_11_5.png)
 ![Alt text](Attachments/random/quiz_11_6.png)
 考虑两个方面：cross section和捕获效率
+![Alt text](Attachments/random/quiz13_Q1.png)
+![Alt text](Attachments/random/quiz13_Q1_1.png)
+![Alt text](Attachments/random/quiz13_Q1_2.png)
