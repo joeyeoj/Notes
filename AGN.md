@@ -18,3 +18,12 @@ M signature
 ![Alt text](Attachments/lunch_talk/masafusa_2.pic.jpg)
 ![Alt text](Attachments/lunch_talk/masafusa_3.pic.jpg)
 ![Alt text](Attachments/lunch_talk/masafusa_4.pic.jpg)
+
+#### Zongnan Li (NAOC) 240105
+M81
+![Alt text](Attachments/lunch_talk/ZongnanLi1.jpg)
+![Alt text](Attachments/lunch_talk/ZongnanLi2.jpg)
+![Alt text](Attachments/lunch_talk/ZongnanLi3.jpg)
+![Alt text](Attachments/lunch_talk/ZongnanLi4.jpg)
+![Alt text](Attachments/lunch_talk/ZongnanLi5.jpg)
+![Alt text](Attachments/lunch_talk/ZongnanLi6.jpg)
