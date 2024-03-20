@@ -29,3 +29,4 @@ conda remove --name ciao-4.15 --all 师兄提供的方法（未尝试）
 echo $ASCDS_INSTALL #查看Ciao安装位置
 rm -rf /path/to/ciao #换成具体安装位置
 ```
+![alt text](1.png)

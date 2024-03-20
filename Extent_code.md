@@ -53,29 +53,3 @@ Step 2
 radial profile图片保存为real_rprofile.png，real_rprofile_fit.png，match_rprofile.png，match_rprofile_fit.png
 
 ##### 结果展示
-F2M J083011.13+375951.9
-obsid 4902
-![[configuration.png|600]]
-Real_image
-![[real_4902.png|600]]
-Real_background_image
-![[real_bgd_4902.png|600]]
-Real_rprofile
-![[real_rprofile_4902.png]]
-Real_rprofile_fit
-![[real_rprofile_fit_4902.png]]
-Match_image
-![[match_4902.png|600]]
-Match_background_image
-![[match_bgd_4902.png|600]]
-Match_rprofile
-![[match_rprofile_4902.png]]
-Match_rprofile_fit
-![[match_rprofile_fit_4902.png]]
-F2M J161809.72+350208.5
-obsid 3341
-Real image
-![[real_3341.png|600]]
-Match image
-![[match_3341.png|600]]
-看不到源。。感觉曝光时间不够
