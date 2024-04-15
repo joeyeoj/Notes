@@ -1,12 +1,12 @@
 #### Comparat, Johan (MPE) 240415
 Topic: X-ray emissions from the large scale structure  of the Universe with an eROSITA focus
 
----
+<!-- ---
 prev: 
     text: "text to show"
     link: "/Colloquium/2024/2024-04-11-The-impact-of-massive-stars-and-black-holes-on-the-dynamical-evolution-of-star-clusters"
 next: false
----
+--- -->
 
 * CGM
 
