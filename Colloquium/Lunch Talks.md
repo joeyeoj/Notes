@@ -22,3 +22,18 @@ The highly ionized warm/hot intergalactic medium (WHIM) permeating the vast spac
 ![Alt text](../Attachments/Colloquium/lunch_talk/XiaoyuanZhang_4.pic.jpg)
 #### Lei Sun (UCAS) 231201
 ![Alt text](../Attachments/Colloquium/lunch_talk/Lei_Sun.pic.jpg)
+
+#### Sebastiano Cantalupo (unimib) 240418
+Illuminating the Cosmic Web and the Circumgalactic Medium with the help of quasars
+"low" halo mass with various redshift z -- Ly \alpha
+Lyalpha and HeII are similar, which make Lyalpha can trace kinematics. It is once considered untraceable to kinematics.
+MUSE traces the largest filaments
+4\times 4 MUSE traces the cosmic web
+ALMA: large overdensity of CO(4-3)
+Chandra: even larger overdensity
+JWST & HST: galaxy morphologies, disk companion detected (dusty SF disk), redshift z=3.2
+
+z~3.2, a giant, massive disk galaxy
+
+Lyalpha, Halpha and HeII-Halpha observations require a multiphase CGM with broad density distribution / high turbulence (as "turbulent" as the ISM).
+Associated with filamentsw with galaxy / AGN overdensity at z>3.
