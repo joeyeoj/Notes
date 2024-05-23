@@ -27,3 +27,9 @@ M81
 ![Alt text](../Attachments/Colloquium/lunch_talk/ZongnanLi4.jpg)
 ![Alt text](../Attachments/Colloquium/lunch_talk/ZongnanLi5.jpg)
 ![Alt text](../Attachments/Colloquium/lunch_talk/ZongnanLi6.jpg)
+
+#### Norbert Werner (MUNI) 2024.05.23
+Title: Accreting massive black holes and a Czech UV space telescope
+Q: Why so much gas and so few stars?
+![alt text](../Attachments/Colloquium/colloquiums_Thu/Norbert_1.png)
+![alt text](../Attachments/Colloquium/colloquiums_Thu/Norbert_2.jpg)
