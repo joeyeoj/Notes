@@ -132,3 +132,12 @@ z~3.2, a giant, massive disk galaxy
 
 Lyalpha, Halpha and HeII-Halpha observations require a multiphase CGM with broad density distribution / high turbulence (as "turbulent" as the ISM).
 Associated with filamentsw with galaxy / AGN overdensity at z>3.
+
+#### Shen lu 20240604
+z from 1 to 3
+SFG: star-forming galaxies
+![alt text](../Attachments/Colloquium/lunch_talk/shenlu1.jpeg)
+shen lu 2024: sSFR-EW(Halpha+NII) log-log relation
+![alt text](../Attachments/Colloquium/lunch_talk/shenlu2.jpeg)
+![alt text](../Attachments/Colloquium/lunch_talk/shenlu3.jpeg)
+inside-out quenching or outside-inter forming?
